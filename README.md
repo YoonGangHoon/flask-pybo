@@ -4,5 +4,5 @@
 
 <a href="https://velog.io/@yghun021007/series/Flask">velog</a>
 
-<h1>실행 방법(풀라스크 설치 후)</h1>
+<h1>실행 방법(플라스크 설치 후)</h1>
 <p>> flask run</p>
